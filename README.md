@@ -9,13 +9,13 @@ git clone https://github.com/Ekansh-is-Pro/OpenCV-Basics.git
 ```
 or Download Directly
 
-##To run 
+## To run 
 
 If you are new to this project then type this in the shell 
 ```shell
 python browser.py
 ```
-##Errors ⚠️⚠️
+## Errors ⚠️⚠️
 
 In case you get any errors such as
 ```shell
